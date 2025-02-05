@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:49:33	1159/1159	---M-Z	404	error ('Not%20Found')	text/html	etag:%22999-63beabb4-a9f7429e4988f1ae;gz%22	https://lightslategray-caterpillar-913811.hostingersite.com/robots.txt		(from )
+15:49:34	8425/8425	---MCZ	200	added ('OK')	text/html	date:Wed,%2005%20Feb%202025%2015:49:34%20GMT	https://lightslategray-caterpillar-913811.hostingersite.com/	C:/Users/Administrator/Downloads/bins/lightslategray-caterpillar-913811.hostingersite.com/index.html	(from )
+15:49:35	83981/83981	---M-Z	200	added ('OK')	text/css	etag:%22619c057b-44be%22	https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css	C:/Users/Administrator/Downloads/bins/cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css	(from https://lightslategray-caterpillar-913811.hostingersite.com/)
